@@ -19,6 +19,4 @@ I'm a Full Stack developer passionate about technology, with experience in Node.
 ![SEQUELIZE](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavoorgb&show_icons=true&hide_title=true&count_private=true&hide=prs)
