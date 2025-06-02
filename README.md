@@ -15,7 +15,6 @@ I'm a Full Stack developer passionate about technology, with experience in PHP (
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Composer](https://img.shields.io/badge/Composer-192F6A?style=for-the-badge&logo=composer&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🔧 Tools and Libraries:
 - Laravel Breeze / Jetstream (authentication and scaffolding)
